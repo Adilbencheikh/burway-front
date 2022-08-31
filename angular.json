@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "burway-front"
+  "defaultProject": "burway-front",
+  "cli": {
+    "analytics": false
+  }
 }
